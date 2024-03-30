@@ -9,6 +9,9 @@ public class Man {
         this.height = height;
     }
 
+    public Man() {
+    }
+
     public int getWeight() {
         return weight;
     }
